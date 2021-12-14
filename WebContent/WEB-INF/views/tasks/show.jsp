@@ -17,7 +17,7 @@
         </p>
         <p>
             更新日時：
-            <fmt:formatDate value="${task.updated_at }"
+            <fmt:formatDate value="${task.updated_at}"
                 pattern="yyyy-MM-dd HH:mm:ss" />
         </p>
 
